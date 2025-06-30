@@ -67,7 +67,7 @@
 
 
 
-* `git clone https://github.com/h4ck3r0/Termux-os`
+* `git clone https://github.com/DARK-D699/Dark_banner.git`
 
 * `cd Termux-os`
 
