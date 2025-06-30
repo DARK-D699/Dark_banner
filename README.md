@@ -69,7 +69,7 @@
 
 * `git clone https://github.com/DARK-D699/Dark_banner.git`
 
-* `cd Termux-os`
+* `cd Dark_banner`
 
 * `bash os.sh`
 
